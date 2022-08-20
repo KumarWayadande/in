@@ -216,3 +216,16 @@ p {
     width: 17px;
     margin: 10px;
 }
+
+
+.copyright{
+
+    position: relative;
+    top: 90px; 
+    display: inline;
+}
+
+.Tindog{
+    display: inline;
+    padding: 30px;
+}
